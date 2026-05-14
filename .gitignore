@@ -1,0 +1,11 @@
+.env
+.ipynb
+__init__.py
+
+logs/
+ner/
+checkpoints/
+
+# Python 自动生成的缓存（必须加，不然垃圾文件进Git）
+__pycache__/
+*.pyc
