@@ -1,5 +1,5 @@
 .env
-.ipynb
+*.ipynb
 __init__.py
 
 logs/
